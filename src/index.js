@@ -6,9 +6,9 @@ import Upload from "./Upload";
 import "bootstrap/dist/css/bootstrap.css";
 
 ReactDOM.render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <Upload />
-  </React.StrictMode>,
+  // </React.StrictMode>,
   document.getElementById("root")
 );
 
